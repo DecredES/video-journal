@@ -37,7 +37,7 @@ El equipo ya está trabajando en la experiencia de usuario y preparando el DEX p
 
 La segunda novedad es un tanto inesperada, no es algo que haya tenído gran demanda como el DEX, pero es sin dudas un desarrollo necesario y clave: la integración de Decred a Rosetta, un middleware, una capa intermedia, desarrollado por Coinbase para integrar blockchains a distintos proyectos, de forma segura y sin que los devs tengan que aprender los detalles de cada blockchain.
 
-Haciendo honor a su nombre, Rosetta, intenta ser una pieza de software que una distintas blockchains, no en sentido de interoperabilidad, es decir que no permite que las blockchains hablen entre si, sino más bien como un lenguaje común que sirva para comunicarse con blockchains de todo tipo, desde clones de Bitcoin como Litecoin hasta cadenas realmente distintas como lo son Decred y Ethereum.
+Haciendo honor a su nombre, Rosetta (agregar por qué hace honor a su nombre), intenta ser una pieza de software que una distintas blockchains, no en sentido de interoperabilidad, es decir que no permite que las blockchains hablen entre si, sino más bien como un lenguaje común que sirva para comunicarse con blockchains de todo tipo, desde clones de Bitcoin como Litecoin hasta cadenas realmente distintas como lo son Decred y Ethereum.
 
 Si la adopción de Rosetta aumenta, integrar Decred a cualquier proyecto estará al alcance de cualquier desarrollador.
 
@@ -49,11 +49,12 @@ Link al tesoro: https://explorer.dcrdata.org/address/Dcur2mcGjmENx4DhNqDctW5wJCV
 
 Ahora si, pasamos a la segunda sección de este resumen de Junio y vamos a hablar sobre todo relacionado con la gobernanza de Decred.
 
-Este mes, el Tesoro recibió 12.629 DCR y gastó 8.340 DCR, quedando así con cerca de 4.000 DCR arriba del periodo pasado. En junio, el precio promedio de DCR fue de 16.05 USD.
+En Junio, el Tesoro recibió 12.629 DCR y gastó 8.340 DCR, quedando así con cerca de 4.000 DCR arriba del periodo pasado. En ese mismo mes, el precio promedio de DCR fue de 16.05 USD.
 
 En Politeia se presentaron 2 nuevas propuestas:
 
-- @ivandecredfan publicó una propuesta para producir contenido en ruso. Ivan pedía un presupuesto de 1.600 dolares mensuales para dedicarle 20 horas por semana a la producción de videos y otros contenidos como la traducción de artículos escritos. También, solicitaba el pago equivalente al de un mes de trabajo por el trabajo ya realizado. La propuesta comenzó a votarse a principios de julio y fue rechazada con 5.624 votos a favor y 3.093 votos en contra, una aprobación del 35,5%.
+(Mostrar Politeia Express)
+  - @ivandecredfan publicó una propuesta para producir contenido en ruso. Ivan pedía un presupuesto de 1.600 dolares mensuales para dedicarle 20 horas por semana a la producción de videos y otros contenidos como la traducción de artículos escritos. También, solicitaba el pago equivalente al de un mes de trabajo por el trabajo ya realizado. La propuesta comenzó a votarse a principios de julio y fue rechazada con 5.624 votos a favor y 3.093 votos en contra, una aprobación del 35,5%.
   - https://proposals.decred.org/proposals/df11d7ac85061e6a02d6503555e585a1a37fffd82101eeea14670537c951926f
 - Por el otro lado, Lindsey, la contratista que asumió la responsabilidad de gestionar el área de Relaciones Públicas de Decred, presentó su segunda propuesta. Luego de seis meses de trabajo que vieron como resultado la aparición de Decred en algunos conocidos medios financieros como Reuters, The New York Times, Forbes y ZeroHedge, así como también en medios especializados en cripto como Cointelegraph y CoinDesk. Según informó Lindsey en su segunda propuesta, consiguió 34 que miembros de Decred aparezcan en 34 artículos (un poco más de 5 artículos por mes), que salieron en 142 publicaciones diferentes. Esta vez, vuelve a solicitar US$ 3.500 por mes para continuar con las operaciones de Relaciones Públicas durante un año entero. {Al momento de grabar este video, la votación todavía no empezó}
   - https://proposals.decred.org/proposals/c81926b1958e54b2f294085da4ab03e9a63223f8ccd32e74a43493bf62de6185
