@@ -37,7 +37,7 @@ El equipo ya está trabajando en la experiencia de usuario y preparando el DEX p
 
 La segunda novedad es un tanto inesperada, no es algo que haya tenído gran demanda como el DEX, pero es sin dudas un desarrollo necesario y clave: la integración de Decred a Rosetta, un middleware, una capa intermedia, desarrollado por Coinbase para integrar blockchains a distintos proyectos, de forma segura y sin que los devs tengan que aprender los detalles de cada blockchain.
 
-Haciendo honor a su nombre, Rosetta (agregar por qué hace honor a su nombre), intenta ser una pieza de software que una distintas blockchains, no en sentido de interoperabilidad, es decir que no permite que las blockchains hablen entre si, sino más bien como un lenguaje común que sirva para comunicarse con blockchains de todo tipo, desde clones de Bitcoin como Litecoin hasta cadenas realmente distintas como lo son Decred y Ethereum.
+El nombre Rosetta viene de la Piedra Rosetta, una tabla hallada en 1799 que tiene inscripciones del mismo texto en Griego y en Egipcio y resultó clave para la comprensión de los jeroglíficos egipcios. Haciendo honor a su nombre, Rosetta intenta ser una pieza de software que una distintas blockchains, no en sentido de interoperabilidad, es decir que no permite que las blockchains hablen entre si, sino más bien como un lenguaje común que sirva para comunicarse con blockchains de todo tipo, desde clones de Bitcoin como Litecoin hasta cadenas realmente distintas como lo son Decred y Ethereum.
 
 Si la adopción de Rosetta aumenta, integrar Decred a cualquier proyecto estará al alcance de cualquier desarrollador.
 
