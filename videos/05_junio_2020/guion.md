@@ -6,14 +6,16 @@ Bienvenidos a un nuevo resumen mensual de Decred en Español, soy Victor, contra
 
 **RESUMEN DEL MES**
 
-Este mes tenemos dos novedades importantes. La primera es que el DEX sigue avanzando y si bien ya hablamos del DEX en videos pasados, este es sin lugar a dudas uno de los desarrollos más esperados por la comunidad y va a seguir dando que hablar, incluso después de su lanzamiento. La segunda es la implementación de Rosetta, un nuevo estándar desarrollado por Coinbase para facilitarle a toda clase de desarrolladores la integración de distintas blockchains, como la de Decred o Bitcoin, a sus proyectos.
+Este mes tenemos dos novedades importantes. La primera es que el DEX sigue avanzando y si bien ya hablamos del DEX en videos pasados, este es sin lugar a dudas uno de los desarrollos más esperados por la comunidad y va a seguir dando que hablar, incluso después de su lanzamiento. 
+
+La segunda es la implementación de Rosetta, un nuevo estándar desarrollado por Coinbase para facilitarle a toda clase de desarrolladores la integración de distintas blockchains, como la de Decred o Bitcoin, a sus proyectos.
 
 Otros temas del día:
 
 - Gobernanza: una nueva propuesta pasó por Politeia y ahora otra está en discusión.
 - Desarrollo: hubo avances en los repositorios de Politeia, Decrediton y el nuevo vspd
-- Integraciones: Staking desde un exchange: ¿qué pasó con el servicio que comenzó a ofrecer KuCoin? Richard Red publico algunos números y vamos a ver si vale la pena.
-- Eventos: Y como siempre, cerramos con el resumen de eventos que organizamos desde Decred en Español
+- Integraciones: Staking desde un exchange: ¿y qué pasó con el servicio que comenzó a ofrecer KuCoin? Richard Red publico algunos números y vamos a ver si vale la pena.
+- Eventos: Y como siempre, cerraremos con el resumen de eventos que organizamos desde Decred en Español
 
 ¡Arrancamos con este resumen!
 
@@ -21,7 +23,7 @@ Otros temas del día:
 
 **Primera novedad**
 
-Marco Peereboom, quien actualmente trabaja en el proyecto de descentralización del Tesoro, sobre el cual ya hablamos y les dejamos el link acá abajo, no paró de tuitear imágenes del Exchange Descentralizado.
+Marco Peereboom, quien actualmente trabaja en el proyecto de descentralización del Tesoro, sobre el cual ya hablamos y les dejamos el link acá abajo, no paró de tuitear en este mes imágenes del Exchange Descentralizado.
 
 https://twitter.com/marco_peereboom/status/1281045287243526144
 https://twitter.com/marco_peereboom/status/1281411509273460736
@@ -37,7 +39,7 @@ El equipo ya está trabajando en la experiencia de usuario y preparando el DEX p
 
 La segunda novedad es un tanto inesperada, no es algo que haya tenído gran demanda como el DEX, pero es sin dudas un desarrollo necesario y clave: la integración de Decred a Rosetta, un middleware, una capa intermedia, desarrollado por Coinbase para integrar blockchains a distintos proyectos, de forma segura y sin que los devs tengan que aprender los detalles de cada blockchain.
 
-Haciendo honor a su nombre, Rosetta (agregar por qué hace honor a su nombre), intenta ser una pieza de software que una distintas blockchains, no en sentido de interoperabilidad, es decir que no permite que las blockchains hablen entre si, sino más bien como un lenguaje común que sirva para comunicarse con blockchains de todo tipo, desde clones de Bitcoin como Litecoin hasta cadenas realmente distintas como lo son Decred y Ethereum.
+El nombre Rosetta viene de la Piedra Rosetta, una tabla hallada en 1799 que tiene inscripciones del mismo texto en Griego y en Egipcio y resultó clave para la comprensión de los jeroglíficos egipcios. Haciendo honor a su nombre, Rosetta intenta ser una pieza de software que una distintas blockchains, no en sentido de interoperabilidad, es decir que no permite que las blockchains hablen entre si, sino más bien como un lenguaje común que sirva para comunicarse con blockchains de todo tipo, desde clones de Bitcoin como Litecoin hasta cadenas realmente distintas como lo son Decred y Ethereum.
 
 Si la adopción de Rosetta aumenta, integrar Decred a cualquier proyecto estará al alcance de cualquier desarrollador.
 
