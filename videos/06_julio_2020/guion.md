@@ -1,37 +1,43 @@
-# TEMPLATE GUIONES VIDEO JOURNAL
+# Lightning más cerca de tu celular
 
 **INTRODUCCION**
 
-Bienvenidos a un nuevo resumen mensual de Decred en Español, soy Victor, contratista de Decred y hoy vamos a repasar todas las novedades que nos trajo {mes}.
+Bienvenidos a un nuevo resumen mensual de Decred en Español, soy Victor, contratista de Decred y hoy vamos a repasar todas las novedades de estas últimas semanas.
 
 **RESUMEN DEL MES**
 
-Intro a la novedad piola:
+Intro a la novedad piola: En la primera parte de este programa vamos a hablar de la implementación de la Lightning Network sobre la red de Decred. Con tantas novedades interesantes como el servicio de privacidad y la descentralización del Tesoro, la red Lightning pasó a segundo plano, pero mucho para contar!
 
 Otros temas del día:
 
-- Gobernanza:
-- Desarrollo: 
-- {Yapa}:
-- Eventos:
+- Gobernanza: Hay muchas propuestas activas en Politeia, la gran mayoría son de marketing, pero no parece haber mucho apoyo por parte de la comunidad.
+- Desarrollo: Como siempre, hay importantes novedades de algunos de los principales proyectos: la descentralización del Tesoro, Politeia, el CMS y Decrediton.
+- Marketing: últimamente hubo muchas discusiones en torno a las estrategias de marketing ejecutadas desde Decred. Vamos a repasar de qué se estuvo hablando en los chats.
+- Eventos: Por último vamos a estar cerrando con los eventos que organizamos desde Decred en Español este mes.
+
+Empezamos con el resumen.
 
 LA NOVEDAD
 
+Hablemos de Lightning Network, la red Lightning.
+
 ¿Hacia dónde está yendo la Lightning Network de Decred? Es un tema que ya no parece estar en agenda o al menos no tan visible como antes, pero dcrlnd avanza muy rápido.
 
-Lightning Network es una solución de segunda capa al problema de la escalabilidad. Esta solución nació en Bitcoin como una forma de tener transacciones "instantáneas", transacciones muy muy rápidas, que le den a los pagos con criptomonedas una experiencia similar a la que hoy tenemos con tarjetas de cŕedito o débito. Enviar el dinero en menos de 10 segundos, agarrar nuestro café e irnos. Pero no se queda solamente en esta idea de pagar rápido. Lightning también abre la puerta a nuevas ideas de lo que se puede hacer con el dinero. Por ejemplo, podríamos "streamear dinero", pasar fondos de una billetera a otra en tiempo real, pagar por segundo, cobrar por segundo.
+https://github.com/decred/dcrlnd/issues/80
+
+https://github.com/decred/dcrlnd/pull/95
+
+Este mes que pasó, parte del código para correr nodos de Lightning en modo Verificación Simple de Pagos fue integrado y siendo revisado. Esto suena complicado, pero lo importante acá es que nos estamos acercando a tener billeteras móviles con Lightning. Pagos instantáneos en nuestros celulares, sin confiar en nadie.
+
+Para quienes no conocen cómo funciona está tecnología, Lightning Network es una solución de segunda capa al problema de la escalabilidad. Esta solución nació en Bitcoin como una forma de tener transacciones "instantáneas", transacciones muy muy rápidas, que le den a los pagos con criptomonedas una experiencia similar a la que hoy tenemos con tarjetas de cŕedito o débito. Enviar el dinero en menos de 10 segundos, agarrar nuestro café e irnos. 
+
+Pero no se queda solamente en esta idea de pagar rápido. Lightning también abre la puerta a nuevas ideas de lo que se puede hacer con los medios de pago tradicionales. Por ejemplo, podríamos "streamear dinero", pasar fondos de una billetera a otra en tiempo real, pagar por segundo, cobrar por segundo.
 
 Pero Lightning Network también tiene desafíos únicos desde una perspectiva de ingeniería de software. ¿Cómo conseguimos más velocidad sin perder la seguridad que ofrece la blockchain? La respuesta fácil es "operá tu propio nodo y listo". Genial, pero ¿podemos hacer eso desde un dispositivo móvil? Ahora, con gran parte de las transacciones pasando por el celular, dejar de lado a estos usuarios no es una opción. Y si bien hoy la blockchain de Decred pesa menos de 4 GBs, no podemos contar con ello en el futuro.
 
 Acá es donde entra el concepto de Verificación Simple de Pagos, Simple Payment Verification o simplemente SPV. Quienes usan Decrediton seguramente vieron que al principio les ofrece dos opciones: correr en modo completo, descargando y validando toda la blockchain, o usar el modo sencillo, SPV. A diferencia del modo completo, donde los nodos descargan toda la blockchain y se requiere una importante capacidad de procesamiento y almacenamiento de datos para que el nodo funciona, el modo sencillo solo verifica los encabezados de los bloques.
 
-
-
-{QUE}
-
-{POR QUE}
-
-{QUE SIGUE}
+Si bien se avanzó mucho desde que Matheus comenzó a trabajar en dcrlnd, el software de la red Lightning de Decred, todavía falta para tener estas billeteras soñadas. Es necesario integrar esta tecnología a las billeteras móviles, crear una experiencia de usuario sencilla y, cómo siempre, probar todo para resolver cualquier problema antes de abrirle las puertas a los usuarios.
 
 **GOBERNANZA**
 
@@ -39,7 +45,7 @@ Link al tesoro: https://explorer.dcrdata.org/address/Dcur2mcGjmENx4DhNqDctW5wJCV
 
 Ahora si, pasamos a la segunda sección de este resumen de {Abril }y vamos a hablar sobre todo relacionado con la gobernanza de Decred.
 
-En {mes}, el Tesoro recibió {n} DCR y gastó {n} DCR, quedando así con cerca de {n} DCR menos que el periodo pasado. Este mes, el precio promedio de DCR fue de {n,nn} USD.
+En julio, el Tesoro recibió 13.050 DCR y gastó 16.073 DCR, quedando así con cerca de 3.000 DCR menos que el periodo pasado. Este mes, el precio promedio de DCR fue de 15,13 USD.
 
 Este mes hubo muchísima actividad en Politeia y se presentaron 6 nuevas propuestas:
 
@@ -55,8 +61,12 @@ Para enterarte cuando arrancan las votaciones de cada propuesta, seguinos en Twi
 **DESAROLLO**
 
 - La descentralización del Tesoro: Este es un tema al que vamos a seguir volviendo en futuro episiodios porque es uno de los cambios más importantes al consenso de Decred y si bien el desarrollo de la implementación ya casi está terminado, luego vendrán las etapas de votación, activación y posiblemente iteración o expansión de estas mejoras. Actualmente los cambios diseñados y escritos por Marco Peereboom están siendo revisados por otros programadores de Decred. Matheus Degiovani  y Dave Collins estuvieron repasando el código, pero todavía queda trabajo ya que son cambios grandes y es fundamental prestarle atención a cada detalle antes de comenzar con el proceso de DCP para cambiar las reglas de consenso. Jamie Holdstock, quien desarrollo el nuevo software para Proveedores de Servicio de Voto, también está ayudando a documentar todos los cambios para facilitar la revisión del código. Se espera que estos cambios el proceso de DCP se inicie cuando salga la versión 1.6, que también incluirá las herramientas de privacidad en Decrediton y, como ya hablamos, mejoras a dcrlnd, la Lightning Network de Decred.
-- Desarrollo 2
-- Desarrollo 3
+- La descentralización del Tesoro trae otra novedad: la implementación de firmas Schnorr, algo que Bitcoin viene planteando hace rato, pero todavía no llegó a implementar. Dave Collins estuvo trabajando en estas por mucho tiempo y ahora los cambios al Tesoro usarán por primera vez este desarrollo.
+
+> CITA DE DAVE COLLINS:
+> Sugerí que usemos firmas Schnorr para los pagos de la Tesorería para aprovechar algunos de los beneficios que traen: son más livianas y su seguridad puede demostrarse formalmente. Recién limpié el código de las firmas Schnorr para que cumpla con los estándares necesarios para formar parte de las reglas de consenso y si bien hay algunos cambios que queremos hacer antes de permitir que cualquier usuario las use, ya están más que listas para usarse en los pagos de la Tesorería. -@davecgh
+
+https://chat.decred.org/#/room/!zefvTnlxYHPKvJMThI:decred.org/$yLGDR6WC7v7LTDkNYOLgTXHOozNnVc92xNS8B-0epds
 
 **YAPA**
 
