@@ -150,8 +150,6 @@ Cambiamos de tema y ahora hablamos de Marketing.
 
 Si hacemos un repaso, 2020 fue un año sacudido para el area de Marketing dentro de Decred. El año arranco con una nueva agencia de Relaciones Públicas, Monde PR, y el equipo se redujo a una sola persona: Lindsey McConaghy quien está atendiendo todas las consultas que llegan a Decred por parte de la prensa y proponiendo historias para ubicar a estos créditos descentralizados en las páginas de diversos medios.
 
-También hay que destacar que Lindsey reapareció como contratista al mismo tiempo que Ditto caía ante las preguntas de los usuarios en Politeia, con una propuesta que rápidamente se ganó la aprobación de la comunidad.
-
 El año arrancó difícil. A todos los equipos de marketing nos tocó adaptarnos a trabajar dejando los eventos físicos de lado.
 
 La propuesta de marketing en Europa no fue aprobada y todavía no apareció otra.
@@ -164,9 +162,14 @@ Y también, nuevos productos hechos a partir de la tecnología existente y el co
 
 Actualmente está en desarrollo Decred On-Chain, una nueva aplicación web similar a dcrdata pero que incluirá también información relacionada al precio de DCR, nuevas funcionalidades de privacidad y Lightning Network están llegando a Decrediton.
 
-Politeia ya está incorporando los Pedidos de Propuestas para que la comunidad pueda tomar la inciativa y demostrar su interes en propuestas que resuelvan determinados problemas o nuevos productos/plataformas deseadas.
+Checkmate, quien investiga la actividad on-chain de Decred ligada a su precio, arrancó con varias iniciativas para fomentar la discusión de estrategias de marketing en Reddit. Estas fueron bien recibidas por la comunidad y en parte impulsaron la enorme cantidad de propuestas que hay ahora en Politeia.
 
-El DEX es otro elemento clave que podría atraer nuevos usuarios a Decred.
+https://www.reddit.com/r/decred/comments/i3gfty/decred_marketing_idea_the_olive_branch_of/
+
+https://www.reddit.com/r/decred/comments/i5cy0y/forward_thinking_friday_7_aug_2020/
+
+Si tienen ideas para potenciar el marketing de Decred, acerquense, pasen por nuestro canal de Telegram, reddit o los canales de Matrix.
+
 
 **EVENTOS**
 
